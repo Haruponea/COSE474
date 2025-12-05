@@ -18,3 +18,17 @@ Question1: Implement Bottleneck building blcok
 Question2: Implement layers
 
 <img src="https://github.com/user-attachments/assets/6082460c-680c-4aa0-bff5-7712d7dfeeec" width="350" height="450"/>
+
+## ASSIGNMENT 3
+
+Implement RNN Classifier
+
+Implement RNN and GRU unit.
+
+## ASSIGNMENT 4
+
+Implement the Transformer Model. 
+
+It includes Positional Encoding, Multi-Head Attention, and the internal operations of the transformer, among others.
+
+
